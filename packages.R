@@ -1,0 +1,8 @@
+if (!require("tm")) install.packages("tm")
+if (!require("topicmodels")) install.packages("topicmodels")
+if (!require("RecordLinkage")) install.packages("RecordLinkage")
+if (!require("devtools")) install.packages("devtools")
+if (!require("influxdbr")) install.packages("influxdbr")
+if (!require("ggplot2")) install.packages("ggplot2")
+if (!require("curl")) install.packages("curl")
+if (!require("httr")) install.packages("httr")
